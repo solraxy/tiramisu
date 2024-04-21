@@ -1,1 +1,3 @@
-# typing-tutor
+# tiramisu
+
+a typing tutor for my daily typing practice
